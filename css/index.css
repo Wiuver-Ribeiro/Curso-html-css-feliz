@@ -41,36 +41,5 @@ a:before {
   background-color: #e06577;
 } 
 
-main {
-  width: 100vw;
-  height: calc(100vh - 100px);
-  border-bottom:  10px solid #000;
-  background-image: url('/assets/img/background.jpg');
-  background-position: center, center right;
-  background-size: cover;
-}
-
-.apresentation {
-  position: absolute;
-  top: 120px;
-  left: 80px;
-  width: 600px;
-  padding: 20px 50px 40px;
-  background-color: #3A4042;
-  text-align: center;
-  box-shadow: 5px 5px 0px #000;
-  
-}
 
 
- h2 {
-  font-size: 30px;
-  line-height: 30px;
-  text-shadow: 4px 4px 0px #000000;;
-  color: #fff;
-}
-
-.apresentation a {
-  position: absolute;
-  bottom: 0;
-}
