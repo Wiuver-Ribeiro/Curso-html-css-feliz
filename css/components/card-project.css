@@ -1,0 +1,28 @@
+.card-project {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 280px;
+  height: 280px;
+  padding: 17px 35px;
+  box-shadow: 10px 10px 0px #FFFFFF;
+}
+
+.card-project .logo {
+  width: 100%;
+}
+
+.card-project.-bg_second {
+  background-color:#7C5E99;
+  
+}
+
+
+.card-project.-bg_blue {
+  background-color:#4C5B84;
+}
+
+.card-project.-bg_third {
+  background-color:#B6746C;
+}
+
