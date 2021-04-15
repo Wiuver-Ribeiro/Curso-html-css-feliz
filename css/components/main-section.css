@@ -15,3 +15,8 @@
   background-color: #7C5E99;
   border-bottom: 10px solid #000;
 }
+
+.section.-bgBlackThird {
+  background-color: #3A4042;
+  padding-bottom: 50px;
+}
