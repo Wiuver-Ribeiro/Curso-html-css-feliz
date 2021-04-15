@@ -1,0 +1,16 @@
+.main-input {
+  display: block;
+  width: 100%;
+  border: 5px solid #000;
+  height: 50px;
+  box-sizing: border-box;
+  font-family: 'Fira Code Pro', sans-serif;
+  margin-bottom: 20px;
+  font-size: 25px;
+}
+
+.main-input.-area {
+  height: 320px;
+  resize: none;
+  padding-left: 0;
+}
