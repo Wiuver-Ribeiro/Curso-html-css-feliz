@@ -1,7 +1,7 @@
 .main-input {
   display: block;
   width: 100%;
-  border: 5px solid #000;
+  border: 5px solid var(--color-black-first);
   height: 50px;
   box-sizing: border-box;
   font-family: 'Fira Code Pro', sans-serif;

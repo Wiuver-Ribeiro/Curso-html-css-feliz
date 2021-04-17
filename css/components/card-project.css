@@ -5,7 +5,7 @@
   width: 280px;
   height: 280px;
   padding: 17px 35px;
-  box-shadow: 10px 10px 0px #FFFFFF;
+  box-shadow: 10px 10px 0px var(--color-third);
 }
 
 .card-project .logo {
@@ -13,7 +13,7 @@
 }
 
 .card-project.-bg_second {
-  background-color:#7C5E99;
+  background-color: var(--color-second);
   
 }
 

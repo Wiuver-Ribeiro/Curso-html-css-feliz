@@ -1,4 +1,19 @@
+:root {
+  /* Base */
+  --color-first: #F25A70;
+  --color-second: #7C5E99;
+  --color-third: #FFFFFF;
 
+  /* Blacks */
+  --color-black-first: #000000;
+  --color-black-second: #3A4042;
+  --color-black-third: #828282;
+
+  /* Status */
+  --color-error: #BA1F33;
+  --color-warning: #CEB02A;
+  --color-sucess: #62C370;
+}
 
 nav {
   text-align: right;

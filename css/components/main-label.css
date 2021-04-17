@@ -1,6 +1,6 @@
 .main-label {
   display: inline;
-  color: #fff;
+  color: var(--color-third);
   font-weight: 300;
   font-size: 30px;
 }

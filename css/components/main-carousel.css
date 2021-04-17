@@ -15,7 +15,7 @@
   height: 6px;
   top: 30px;
   left: 40px;
-  background-color: #000;
+  background-color: var(--color-black-first);
   display: block;
   position: absolute;
   
@@ -24,7 +24,7 @@
 .main-carousel:before{
   content: "";
   width: 100% ;
-  border: 3px dashed #000;
+  border: 3px dashed var(--color-black-first);
   top: 30px;
   left: 0;
   display: block;
